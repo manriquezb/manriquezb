@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Braulio Manriquez, @manriquezb
-- 🌱 I’m currently learning ... Data Structures and Algorithms
+- 🌱 I’m currently learning ... Time-Series Analysis, Differential Equations, Group Theory and its applications
 - 📫 How to reach me ... manriquez.b@outlook.com
 - ⚡ Fun fact: ... my first language is Spanish
 
